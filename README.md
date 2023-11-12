@@ -8,6 +8,8 @@ Kolejnym krokiem było dodanie pułapek, ruchomych obiektów i animowanych punkt
 Dalej przyszedł czas na dzwięki w grze oraz na muzykę. Jumper czyli tytułowa postać w kosmicznym skafandrze dostał szereg animacji związanych z bieganiem, skakaniem i złapaniem się w pułapki.
 W międzyczasie stworzyłem krótkie menu początkowe i ekran końcowy oraz licznik punktów. Na koniec dodałem parę poziomów.
 
+<h1>Galegia:</h1>
+
 
 ![5](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/3963d698-9e0e-4f3a-90cb-89ae2294c688)
 
@@ -18,5 +20,5 @@ W międzyczasie stworzyłem krótkie menu początkowe i ekran końcowy oraz licz
 ![8](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/4701889e-7c6d-4b1c-9e0b-94b39598abce)
 
 
-<h1>Twórca: </h1>
-<h3>Mateusz Wąsik</h3>
+<h1>Twórca: Mateusz Wąsik </h1>
+
