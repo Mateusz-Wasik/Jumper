@@ -17,4 +17,6 @@ W międzyczasie stworzyłem krótkie menu początkowe i ekran końcowy oraz licz
 
 ![8](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/4701889e-7c6d-4b1c-9e0b-94b39598abce)
 
-Gra stworzona przez Mateusza Wąsika
+
+<h1>Twórca: </h1>
+<h3>Mateusz Wąsik</h3>
