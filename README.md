@@ -1,4 +1,4 @@
-JUMPER - Gra 2D stworzona w Unity.
+<h1>  JUMPER - Gra 2D stworzona w Unity.</h1>
 
 Gra oparta na silniku Unity, przy pomocy darmowych assetów.
 Gra posiada 3 poziomy, menu początkowe oraz ekran końcowy. Jest kompatybilna z kontrolerami i sterowaniem WASD lub strzałkami.
