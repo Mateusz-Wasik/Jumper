@@ -19,6 +19,8 @@ W międzyczasie stworzyłem krótkie menu początkowe i ekran końcowy oraz licz
 
 ![8](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/4701889e-7c6d-4b1c-9e0b-94b39598abce)
 
+![9](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/3ca65e0c-1b83-41f5-aa50-684436a78f02)
+
 
 <h1>Twórca: Mateusz Wąsik </h1>
 
