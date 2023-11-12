@@ -9,4 +9,5 @@ Dalej przyszedł czas na dzwięki w grze oraz na muzykę. Jumper czyli tytułowa
 W międzyczasie stworzyłem krótkie menu początkowe i ekran końcowy oraz licznik punktów. Na koniec dodałem parę poziomów.
 ![5](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/3963d698-9e0e-4f3a-90cb-89ae2294c688)
 ![4](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/27516f81-4164-41cf-a75c-b13fc7e89751)
-![2](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/20e18a4c-a771-45f9-b021-0d318bbbf62c)
+![3](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/8c7bc549-dc74-40e7-9a3a-db69bed5b763)
+![8](https://github.com/Mateusz-Wasik/Jumper/assets/130405397/4701889e-7c6d-4b1c-9e0b-94b39598abce)
